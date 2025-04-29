@@ -57,7 +57,7 @@ go to the page of link and book a apponment for the docter.
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/health-bridge.git
+   git clone [https://github.com/your-username/health-bridge.git](https://github.com/Amrenderkumar/health-bridge1)
 
 
 ![image alt](https://github.com/Amrenderkumar/health-bridge1/blob/653568e486b52ee72c6da199203fbeca765a90da/screenshort.png)
