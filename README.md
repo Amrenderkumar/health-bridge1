@@ -13,7 +13,7 @@ go to the page of link and book a apponment for the docter.
 - 🩺 **Doctor Availability** – Real-time status and specialization info.
 - 💬 **Live Chat Button** – A quick-connect UI component for assistance.
 - 📄 **About Us** – Our mission to build accessible, personalized healthcare.
-- 📌 **Clinic Info & Timings** – Contact details, address, and working hours.
+- 📌 **Clinic Info & Timings** – Contact details, address, and working hours. 
 
 ## 🖼️ Home Page Highlights
 
