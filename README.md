@@ -1,7 +1,7 @@
 # A heath care website
 A heathcare website use to a patient of every place.
 go to the page of link and book a apponment for the docter.
-# 🏥 Health Bridge - A Smart Healthcare Web Solution
+# 🏥 Health Bridge - A Smart Healthcare Web Solution 
 
 **Health Bridge** is a responsive, modern, and user-friendly healthcare web application designed to simplify patient-doctor interaction and streamline clinic operations.
 
