@@ -5,7 +5,7 @@ go to the page of link and book a apponment for the docter.
 
 **Health Bridge** is a responsive, modern, and user-friendly healthcare web application designed to simplify patient-doctor interaction and streamline clinic operations.
 
-## 🌟 Key Features
+## 🌟 Key Features 
 
 - 👩‍⚕️ **User Registration & Login** – Patients and doctors can sign up and securely log in.
 - 📅 **Online Appointment Booking** – Easy scheduling with available doctors.
