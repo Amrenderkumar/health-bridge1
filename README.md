@@ -9,7 +9,7 @@ go to the page of link and book a apponment for the docter.
 
 - 👩‍⚕️ **User Registration & Login** – Patients and doctors can sign up and securely log in.
 - 📅 **Online Appointment Booking** – Easy scheduling with available doctors.
-- 🧠 **Department Listings** – Neurology, Eye, Cardiac Care, ENT, and more.
+- 🧠 **Department Listings** – Neurology, Eye, Cardiac Care, ENT, and more. 
 - 🩺 **Doctor Availability** – Real-time status and specialization info.
 - 💬 **Live Chat Button** – A quick-connect UI component for assistance.
 - 📄 **About Us** – Our mission to build accessible, personalized healthcare.
